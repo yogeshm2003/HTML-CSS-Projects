@@ -1,6 +1,6 @@
 # HTML & CSS Projects
 
-This repository contains a collection of simple and creative HTML and CSS projects built for practice and learning.
+This repository contains a collection of simple and creative HTML and CSS projects built for practice and learning.This projects make me more confident in HTML & CSS.
 
 ## 📁 Projects
 
