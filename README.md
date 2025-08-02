@@ -4,9 +4,9 @@ This repository contains a collection of simple and creative HTML and CSS projec
 
 ## 📁 Projects
 
-- **project1/** – Basic portfolio website using HTML and CSS
-- **project2/** – Responsive landing page
-- **project3/** – CSS animations demo
+- **project1/** – Job_Application_Website
+- **project2/** – Prallax_Website
+- **project3/** – Tribute_Website
 
 ## 💡 Features
 
